@@ -1,0 +1,5 @@
+export const USER_ACTIONS = {
+    GET_USER: 'GET_USER',
+    REGISTER_USER: 'REGISTER_USER',
+    UPDATE_USER: 'UPDATE_USER',
+};
